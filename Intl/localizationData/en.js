@@ -1,16 +1,16 @@
 export default {
   locale: 'en',
   messages: {
-    siteTitle: 'MERN Starter Blog',
-    addPost: 'Add Post',
+    siteTitle: 'Bopsass starter App',
+    addPost: 'Add data',
     switchLanguage: 'Switch Language',
     twitterMessage: 'We are on Twitter',
     by: 'By',
-    deletePost: 'Delete Post',
-    createNewPost: 'Create new post',
+    deletePost: 'Delete Data',
+    createNewPost: 'Create new data',
     authorName: 'Author\'s Name',
-    postTitle: 'Post Title',
-    postContent: 'Post Content',
+    postTitle: ' Title',
+    postContent: ' Content',
     submit: 'Submit',
     comment: `user {name} {value, plural,
     	  =0 {does not have any comments}
