@@ -10,3 +10,5 @@ before_script:
   - sleep 15
 after_success:
   - './node_modules/.bin/nyc report --reporter=text-lcov | ./node_modules/.bin/coveralls'
+notifications:
+  slack: bopmasters:G1jozpIb25zq4D5vYuxBR8XR
